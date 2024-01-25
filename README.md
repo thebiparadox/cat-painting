@@ -1,2 +1,1 @@
-# cat-painting
-Created a cat painting for Bad Website Club's bootcamp
+Created a cat painting for Bad Website Club's bootcamp using [freeCodeCamp's Responsive Web Design curriculum](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-cat-painting/step-1)
